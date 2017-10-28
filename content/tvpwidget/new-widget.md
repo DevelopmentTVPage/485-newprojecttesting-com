@@ -10,6 +10,6 @@
     "type": "carousel-spotlight",
     "title": "New Widget",
     "name": "new-widget",
-    "channelId": "123184260",
+    "channelId": "123184257",
     "layout": "bootstrap"
 }
